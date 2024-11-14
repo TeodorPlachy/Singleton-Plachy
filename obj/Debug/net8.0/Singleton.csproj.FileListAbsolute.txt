@@ -1,0 +1,14 @@
+c:\Users\Teodor\Documents\VS code\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Teodor\Documents\VS code\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+c:\Users\Teodor\Documents\VS code\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+c:\Users\Teodor\Documents\VS code\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+c:\Users\Teodor\Documents\VS code\Singleton\bin\Debug\net8.0\Singleton.exe
+C:\Users\Teodor\Documents\VS code\Singleton\bin\Debug\net8.0\Singleton.deps.json
+C:\Users\Teodor\Documents\VS code\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+c:\Users\Teodor\Documents\VS code\Singleton\bin\Debug\net8.0\Singleton.dll
+c:\Users\Teodor\Documents\VS code\Singleton\bin\Debug\net8.0\Singleton.pdb
+c:\Users\Teodor\Documents\VS code\Singleton\obj\Debug\net8.0\Singleton.dll
+c:\Users\Teodor\Documents\VS code\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+c:\Users\Teodor\Documents\VS code\Singleton\obj\Debug\net8.0\Singleton.pdb
+C:\Users\Teodor\Documents\VS code\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+C:\Users\Teodor\Documents\VS code\Singleton\obj\Debug\net8.0\ref\Singleton.dll
